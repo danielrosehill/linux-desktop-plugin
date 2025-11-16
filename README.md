@@ -1,6 +1,24 @@
 [![Claude Code Plugins Collection](https://img.shields.io/badge/Claude%20Code-Plugins%20Collection-blue?style=for-the-badge&logo=github)](https://github.com/danielrosehill/Claude-Code-Plugins)
 
-# CC-Plugin-linux-desktop
+## Linux Desktop Management Plugin
+
+This Claude Code plugin is part of my public marketplace.
+
+**To install the marketplace:**
+
+```bash
+/plugin marketplace add https://github.com/danielrosehill/Claude-Code-Plugins
+```
+
+**Plugin Installation:**
+
+To install this plugin:
+
+```bash
+/plugin install linux-desktop-mgmt@danielrosehill
+```
+
+---
 
 Claude Code plugin for linux-desktop slash commands and agents.
 
