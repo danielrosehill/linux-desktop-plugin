@@ -8,10 +8,7 @@
     "url": "https://danielrosehill.com"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/danielrosehill/linux-desktop-plugin"
-  },
+  "repository": "https://github.com/danielrosehill/linux-desktop-plugin",
   "commands": [
     "./commands/add-bash-alias.md",
     "./commands/ai-cli-seeders-ai-clis.md",
