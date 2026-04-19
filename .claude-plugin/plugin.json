@@ -1,7 +1,7 @@
 {
   "name": "linux-desktop-mgmt",
   "description": "Claude Code plugin for Linux desktop environment management, KDE/Plasma configuration, and desktop system administration.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "author": {
     "name": "Daniel Rosehill",
     "email": "public@danielrosehill.com",
